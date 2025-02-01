@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-logo-url.com/logo.png" width="150" alt="CaptureCrew Logo">
-</p>
+
 
 <h1 align="center">CaptureCrew 📸</h1>
 
