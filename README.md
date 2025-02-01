@@ -40,10 +40,3 @@
 | **MySQL** | Database management |
 
 ---
-
-## 🚀 Installation & Setup
-
-1️⃣ **Clone the repository**  
-```sh
-git clone https://github.com/your-username/CaptureCrew.git
-cd CaptureCrew
